@@ -5,3 +5,7 @@
 body {
   background: rgb(164, 221, 164);
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
